@@ -1,3 +1,31 @@
+Utkarsh
+
+
+When we get in, Home Page will seem like this.
+
+![Screenshot (371)](https://user-images.githubusercontent.com/47950367/128610171-eabb692b-0b6b-49d2-b663-1ea1e77ac938.png)
+
+
+On the top left of the Home Page, when we click on the Login, Login Page will open and look like this.
+
+![Screenshot (372)](https://user-images.githubusercontent.com/47950367/128610223-128d7037-86b2-421d-b1f5-968e7c489d7e.png)
+
+ And On the top left of the Home Page, when we click on the Register, the page will open and Look like this.
+ 
+![Screenshot (373)](https://user-images.githubusercontent.com/47950367/128610214-1db704e0-bb72-4ace-881a-210f800d2a6a.png)
+
+Or If the User is Already Registered, then he/she can use login option which is also mentioned in the bottom of the Register Page.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
