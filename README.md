@@ -1,4 +1,4 @@
-Utkarsh
+Login/Register page
 
 
 When we get in, Home Page will seem like this.
